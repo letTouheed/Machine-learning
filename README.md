@@ -5,4 +5,74 @@ One of the areas that CV has helped most is the detection of the severity of the
 # Scope of the System 
 
 The software will be developed for real life application. The aim of our project is to present an algorithm that automatically detect disease from image. It includes detection of diseased leaf, to measure the affected area by disease, to determine the color of the affected area. In the Application, after training of the model the inputted image will be tested. Machine Learning is doing wonders in every industry these days. The use of image processing techniques in detection and identification of leaf diseases in the earlier stages and thereby the quality of the product could be increased. Our application will give a method which will be fast and reliable. Training and testing will be done on the dataset.
+# Home Page
 ![image](https://user-images.githubusercontent.com/108889270/204727117-2f723e45-da13-482a-91de-fa8f5b311dde.png)
+Store page:
+On our store page you will see products related crops health you can buy from here
+ 
+
+# How we work:
+
+How our services section work every thing you need about service section how you can perform prediction is given here. 
+
+ 
+
+
+
+# About Us:
+
+What is our motive to build this website is describe there you can easily access on about us page. You can understand the value of this website after reading this.
+ 
+
+
+
+# Team:
+
+In our team section you can find the developer of pur website and you can easily contact them if anything you need.
+
+ 
+
+
+# Contact Us:
+
+In our contact us form you can easily contact us on our given email during given hours you can mail us and you can receive reply within one working day.
+
+ 
+
+
+
+# Services Page:
+
+In our service page you can find out the nine different categories of crops and plants you can easily scan respective field to get your desired results.
+ 
+
+
+
+# Scan Page:
+
+In our scan page you can see this page offer you to upload a online photo to detect disease.
+
+ 
+
+
+# Prediction Page:
+
+In our prediction page you can you can predict the disease of an image you given and find a treatment of these disease.
+
+ 
+
+
+
+# Login Page:
+
+In our login page you can easily login to our website access our services section by login and for login you have to register yourself first.
+
+ 
+
+
+
+# Registration Page:
+
+In our registration page you can easily register to our website access our services section by login and for login you have to register yourself first.
+
+ 
