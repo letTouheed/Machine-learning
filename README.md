@@ -7,15 +7,17 @@ One of the areas that CV has helped most is the detection of the severity of the
 The software will be developed for real life application. The aim of our project is to present an algorithm that automatically detect disease from image. It includes detection of diseased leaf, to measure the affected area by disease, to determine the color of the affected area. In the Application, after training of the model the inputted image will be tested. Machine Learning is doing wonders in every industry these days. The use of image processing techniques in detection and identification of leaf diseases in the earlier stages and thereby the quality of the product could be increased. Our application will give a method which will be fast and reliable. Training and testing will be done on the dataset.
 # Home Page
 ![image](https://user-images.githubusercontent.com/108889270/204727117-2f723e45-da13-482a-91de-fa8f5b311dde.png)
-Store page:
+# Store page:
 On our store page you will see products related crops health you can buy from here
  
+![image](https://user-images.githubusercontent.com/108889270/204728289-e23ff6c0-160b-4f23-9109-442017b772df.png)
 
 # How we work:
 
 How our services section work every thing you need about service section how you can perform prediction is given here. 
 
  
+![image](https://user-images.githubusercontent.com/108889270/204728334-3e8b19ce-2469-4475-89ca-6cb21d2aa067.png)
 
 
 
@@ -24,20 +26,23 @@ How our services section work every thing you need about service section how you
 What is our motive to build this website is describe there you can easily access on about us page. You can understand the value of this website after reading this.
  
 
+![image](https://user-images.githubusercontent.com/108889270/204728394-62206854-3628-4ce9-a275-5736c7e5a537.png)
 
 
 # Team:
 
 In our team section you can find the developer of pur website and you can easily contact them if anything you need.
 
- 
+ ![image](https://user-images.githubusercontent.com/108889270/204728422-3dc98020-cc57-4662-acfe-111f83fd992a.png)
+
 
 
 # Contact Us:
 
 In our contact us form you can easily contact us on our given email during given hours you can mail us and you can receive reply within one working day.
 
- 
+ ![image](https://user-images.githubusercontent.com/108889270/204728507-865f854a-f355-431d-953d-e97777ddd27b.png)
+
 
 
 
@@ -46,6 +51,7 @@ In our contact us form you can easily contact us on our given email during given
 In our service page you can find out the nine different categories of crops and plants you can easily scan respective field to get your desired results.
  
 
+![image](https://user-images.githubusercontent.com/108889270/204728532-61a7749d-acf7-4ce9-b312-b2766db3fc88.png)
 
 
 # Scan Page:
@@ -53,6 +59,7 @@ In our service page you can find out the nine different categories of crops and 
 In our scan page you can see this page offer you to upload a online photo to detect disease.
 
  
+![image](https://user-images.githubusercontent.com/108889270/204728653-1c5d95e3-a9be-4c49-9d19-f15f230c46cc.png)
 
 
 # Prediction Page:
@@ -61,6 +68,7 @@ In our prediction page you can you can predict the disease of an image you given
 
  
 
+![image](https://user-images.githubusercontent.com/108889270/204728689-3268847b-e9c4-4cc1-9693-f6fc20a9774b.png)
 
 
 # Login Page:
@@ -69,10 +77,12 @@ In our login page you can easily login to our website access our services sectio
 
  
 
+![image](https://user-images.githubusercontent.com/108889270/204728711-1cdbe1b0-e4b2-4a28-8a7a-a8e18a53c1f5.png)
 
 
 # Registration Page:
 
 In our registration page you can easily register to our website access our services section by login and for login you have to register yourself first.
 
- 
+ ![image](https://user-images.githubusercontent.com/108889270/204728744-fc1eff30-f97b-43d4-98e3-146f8ab0b9ba.png)
+
